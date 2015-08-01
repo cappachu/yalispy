@@ -1,6 +1,6 @@
 # yalispy
 
-Customary Lisp Parser - in Python
+Customary Lisp Interpreter - in Python
 
 Supports:
 - basic procedures
